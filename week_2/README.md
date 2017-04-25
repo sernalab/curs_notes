@@ -35,6 +35,28 @@ __Selectors__
 
 ## DAY 3
 
+#### POSITIONS
+
+__Floats__
+
++ [Positioning with floats](http://learn.shayhowe.com/html-css/positioning-content/#floats)
+
+__Displays__
+
++ [Display](http://learn.shayhowe.com/html-css/opening-the-box-model/#how-are-elements-displayed)
++ [Positioning with inline-block](http://learn.shayhowe.com/html-css/positioning-content/#inline-block)
++ [Tutorial of display](https://css-tricks.com/centering-css-complete-guide/)
+
+
+__Position absolute/relative__
+
++ [Position](http://learn.shayhowe.com/html-css/positioning-content/#uniquely-positioning-elements)
++ [JuanMa example](https://github.com/sernalab/html_css_exercises/blob/master/exercises_html/example_positions.html)
+
+__Flexbox__
+
++ [Flexbox without flexbox](https://kyusuf.com/post/almost-complete-guide-to-flexbox-without-flexbox)
+
 ## DAY 4
 
 ## DAY 5
